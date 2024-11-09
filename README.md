@@ -13,3 +13,4 @@ Dive into the world of Arabic language learning with **Bin Alam World**! Our app
 - **Personalized Learning**: Track your progress and identify areas for improvement as you advance through your studies.
 
 Figma UI/UX Design: [View Design](https://www.figma.com/design/AAjcC53Jo7s6FcyTRWzXMe/%D8%B9%D8%A7%D9%84%D9%85-%D8%A8%D9%86-%D8%B9%D9%84%D8%A7%D9%85?node-id=0-1&t=N5GXWAmP6QtzfGw1-1)
+Review the Prototype: [View Prototype](https://www.figma.com/proto/AAjcC53Jo7s6FcyTRWzXMe/%D8%B9%D8%A7%D9%84%D9%85-%D8%A8%D9%86-%D8%B9%D9%84%D8%A7%D9%85?page-id=0%3A1&node-id=21-135021&node-type=canvas&viewport=3675%2C11019%2C0.58&t=hdMVnM6ZXi7ogVXy-1&scaling=contain&content-scaling=fixed&starting-point-node-id=17%3A8497)
