@@ -1,3 +1,5 @@
+![Alem](https://github.com/user-attachments/assets/c1d15d77-a2b8-4a94-9f84-5d1a3388bc7f)
+
 # Welcome to عالم بن علّام! 🌍
 
 ## Your AI Arabic Tutor
