@@ -1,8 +1,8 @@
-# Welcome to عالم بن علّام! 🌍
+# Welcome to عالم بن علّام!
 
 ## Your AI Arabic Tutor
 
-Dive into the world of Arabic language learning with **Bin Alam World**! Our application harnesses the power of the **Alam model** and utilizes **Retrieval-Augmented Generation (RAG)** to provide an immersive study experience.
+Dive into the world of Arabic language learning with **Bin Alam World**! Our application harnesses the power of the **ALLAM model** and utilizes **Retrieval-Augmented Generation (RAG)** to provide an immersive study experience.
 
 
 <img src="https://github.com/user-attachments/assets/c1d15d77-a2b8-4a94-9f84-5d1a3388bc7f" alt="Alem" width="300">
