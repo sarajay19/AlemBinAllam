@@ -4,7 +4,7 @@
 
 Dive into the world of Arabic language learning with **Bin Alam World**! Our application harnesses the power of the **Alam model** and utilizes **Retrieval-Augmented Generation (RAG)** to provide an immersive study experience.
 
-### Image
+### Introducing Alam to you:
 <img src="https://github.com/user-attachments/assets/c1d15d77-a2b8-4a94-9f84-5d1a3388bc7f" alt="Alem" width="300">
 
 ### What We Offer:
